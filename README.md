@@ -1,1 +1,1 @@
-# LFA
+# Linguagens formais e autômatos
